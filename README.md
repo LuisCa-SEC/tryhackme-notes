@@ -1,4 +1,4 @@
-# TryHackMe Notes
+# Cybersecurity Learning Journey
 
 Welcome to my cybersecurity learning journey.
 
